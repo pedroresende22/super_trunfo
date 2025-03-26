@@ -52,7 +52,7 @@
         scanf("%s", nomec2);
 
         printf("Digite o número de habitantes da cidade: \n");
-        scanf("%d", populacaoc2);
+        scanf("%d", &populacaoc2);
 
         printf("Digite a área da cidade: \n");
         scanf("%f", &areac2);
